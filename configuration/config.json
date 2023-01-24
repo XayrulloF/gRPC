@@ -1,4 +1,5 @@
 {
+    "_comment":"table with 3 columns: id, name, age",
     "driverName": "mysql",
     "dataSourceName": "root:123@/example"
 }
